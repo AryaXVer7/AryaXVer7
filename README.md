@@ -10,7 +10,7 @@ I am Aryan a Cybersecurity student.
 This is a fresh profile and I will upload small projects on various languages like Java, Rust and Python.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Reach me out: https://www.linkedin.com/in/aryan-verma-501478388
+Reach me out: aryan1126@proton.me
 <!--
 **AryaXVer7/AryaXVer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
