@@ -5,7 +5,7 @@ I am Aryan a Cybersecurity student.
 
 🔭 I'm currently working on small projects using Java and Rust.
 
-🔭 I'm want to learning C for getting started with my Reverse Engineering journey.
+🔭 I want to learning C for getting started with my Reverse Engineering journey.
 
 This is a fresh profile and I will upload small projects on various languages like Java, Rust and Python.
 
