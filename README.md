@@ -56,14 +56,6 @@ Upcoming:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaXVer7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaXVer7&layout=compact&theme=tokyonight)
-
----
-
 ## Contact
 
 📧 aryan1126@proton.me
