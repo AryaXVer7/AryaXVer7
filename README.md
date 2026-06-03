@@ -58,9 +58,9 @@ Upcoming:
 
 ## GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaXVer7&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaXVer7&layout=compact)
 
 ---
 
