@@ -1,16 +1,75 @@
-## Hi there 👋
-I am Aryan a Cybersecurity student.
+# Hi, I'm Aryan 👋
 
-🌱 I'm currently learning Java, Rust and App Development.
+💻 Cybersecurity Student  
+🔬 Exploring Reverse Engineering, Systems Programming, and Compiler Design  
+🌱 Currently learning Java, Rust, C, and Python
 
-🔭 I'm currently working on small projects using Java and Rust.
+---
 
-🔭 I want to learning C for getting started with my Reverse Engineering journey.
+## About Me
 
-This is a fresh profile and I will upload small projects on various languages like Java, Rust and Python.
+I'm a cybersecurity student who enjoys understanding how software works under the hood.
 
--------------------------------------------------------------------------------------------------------------------------------------
-Reach me out: aryan1126@proton.me
+Currently, I'm focused on:
+
+- ☕ Java Development
+- 🦀 Rust Programming
+- 🔍 Reverse Engineering
+- ⚙️ Compiler and Transpiler Development
+- 🖥️ Systems Programming with C
+
+---
+
+## Current Projects
+
+### TinyC2Py
+A beginner-friendly C-to-Python transpiler built from scratch while learning compiler design.
+
+Current Features:
+- Lexer
+- Parser
+- AST Generation
+- Python Code Generation
+- Integer and Character Declarations
+
+Upcoming:
+- Multiple Declarations
+- Expressions
+- Functions
+
+---
+
+## Technologies
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Contact
+
+📧 aryan1126@proton.me
+
+---
+
+> "Learning by building."
 <!--
 **AryaXVer7/AryaXVer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
