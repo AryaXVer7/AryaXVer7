@@ -22,7 +22,7 @@ Currently, I'm focused on:
 
 ## Current Projects
 
-### TinyC2Py
+### C2Py_Transpiler
 A beginner-friendly C-to-Python transpiler built from scratch while learning compiler design.
 
 Current Features:
@@ -33,7 +33,6 @@ Current Features:
 - Integer and Character Declarations
 
 Upcoming:
-- Multiple Declarations
 - Expressions
 - Functions
 
