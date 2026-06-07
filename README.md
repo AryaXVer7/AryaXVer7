@@ -80,6 +80,10 @@ Upcoming:
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaXVer7&theme=highcontrast&radius=10" alt="AryaXVer7's Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ---
 
 ## Contact
@@ -90,17 +94,10 @@ Upcoming:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
+---
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
----
-
-> "Learning by building."
 <!--
 **AryaXVer7/AryaXVer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
