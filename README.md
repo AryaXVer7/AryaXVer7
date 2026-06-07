@@ -1,14 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Aryan</h1>
 <h3 align="center"> 💻 Cybersecurity Student 🔬 Exploring Reverse Engineering, Systems Programming, and Compiler Design   🌱 Currently learning Java, Rust, C, C++ and Python</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AryaXVer7">
-    <img src="https://komarev.com/ghpvc/?username=AryaXVer7&label=Profile%20views&color=00FFFF&style=flat-square" alt="AryaXVer7's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
 ---
 
 ## About Me
