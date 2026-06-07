@@ -56,10 +56,6 @@ Upcoming:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaxver7&show_icons=true&locale=en&layout=compact" alt="aryaxver7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaxver7&show_icons=true&locale=en" alt="aryaxver7" /></p>
-
 ---
 
 ## Contact
