@@ -58,12 +58,11 @@ Upcoming:
 ---
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/AryaXVer7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryaXVer7&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="AryaXVer7's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=AryaXVer7&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="AryaXVer7's GitHub Streak" width="49%" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=AryaXVer7&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aryan's GitHub Trophies" />
