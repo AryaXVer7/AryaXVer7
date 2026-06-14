@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Aryan</h1>
-<h3 align="center"> 💻 Cybersecurity Student 🔬 Exploring Reverse Engineering, Systems Programming, and Compiler Design   🌱 Currently learning Java, Rust, C, C++ and Python</h3>
+<h3 align="center"> 💻 Cybersecurity Student 🔬 Exploring Reverse Engineering, Systems Programming, and Compiler Design   🌱 Currently learning Python, C, C++ and Rust</h3>
 
 ---
 
