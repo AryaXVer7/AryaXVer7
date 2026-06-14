@@ -9,11 +9,12 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 Currently, I'm focused on:
 
-- ☕ Java Development
+- 🐍 Python Programming
+- 🚀 Data Structures and Algorithms in C++
 - 🦀 Rust Programming
 - 🔍 Reverse Engineering
-- ⚙️ Compiler and Transpiler Development
 - 🖥️ Systems Programming with C
+- ⚙️ Compiler and Transpiler Development
 
 ---
 
