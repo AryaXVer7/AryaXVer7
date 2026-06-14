@@ -48,9 +48,18 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-![](https://github-readme-stats.shion.dev/api?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AryaXVer7&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&layout=compact" />
+</p>
 
 </p>
 <p align="center">
