@@ -7,29 +7,29 @@
 
 I'm a cybersecurity student who enjoys understanding how software works under the hood.
 
-Currently, I'm focused on:
+🎯 Current Focus:
 
 - 🐍 Python Programming
 - 🚀 Data Structures and Algorithms in C++
-- 🦀 Rust Programming
 - 🔍 Reverse Engineering
 - 🖥️ Systems Programming with C
-- ⚙️ Compiler and Transpiler Development
+- ⚙️ Compiler and Transpiler Learning
 
 ---
 
-## 📌 Featured Repositories
+## 🚀 Interests
 
-- Tiny_CPU_Emulator
-- C2Py_Transpiler
+- Reverse Engineering
+- Systems Programming
+- Compiler Design
+- Computer Architecture
+- Low-Level Development
+- Cybersecurity
 
 ---
 
-## Technologies
+## 💻 Tech Stack
 
-### Languages
-
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,7 +47,7 @@ Currently, I'm focused on:
 
 ---
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats</h2>
 ![](https://github-readme-stats.shion.dev/api?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
