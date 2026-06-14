@@ -18,21 +18,10 @@ Currently, I'm focused on:
 
 ---
 
-## Current Projects
+## 📌 Featured Repositories
 
-### C2Py_Transpiler
-A beginner-friendly C-to-Python transpiler built from scratch while learning compiler design.
-
-Current Features:
-- Lexer
-- Parser
-- AST Generation
-- Python Code Generation
-- Integer and Character Declarations
-
-Upcoming:
-- Expressions
-- Functions
+- Tiny_CPU_Emulator
+- C2Py_Transpiler
 
 ---
 
