@@ -52,10 +52,6 @@ Currently, I'm focused on:
 ![](https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AryaXVer7&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aryan's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaXVer7&theme=highcontrast&radius=10" alt="AryaXVer7's Activity Graph" />
