@@ -21,9 +21,10 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 ### PCSX2 Emulator (Hindi Localization)
 
-* Contributed Hindi translations to the PCSX2 Emulator project through Crowdin.
-* Localized emulator settings, achievement notifications, audio settings, and advanced system configuration screens.
-* Helped improve Hindi language coverage for PCSX2.
+* Contributed Hindi localization to the PCSX2 Emulator project through Crowdin.
+* Localized emulator settings, achievement notifications, audio settings, and advanced system configuration options.
+* Crowdin Profile: https://crowdin.com/profile/aryaxver7
+* Project: https://crowdin.com/project/pcsx2-emulator/hi
 
 ---
 
