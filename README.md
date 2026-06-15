@@ -17,6 +17,16 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 ---
 
+## 🌍 Open Source Contributions
+
+### PCSX2 Emulator (Localization)
+
+* Contributed Hindi translations to the PCSX2 Emulator project through Crowdin.
+* Localized emulator settings, achievement notifications, audio settings, and advanced system configuration screens.
+* Helped improve Hindi language coverage for PCSX2.
+
+---
+
 ## 🚀 Interests
 
 - Reverse Engineering
