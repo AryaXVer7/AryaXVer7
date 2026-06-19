@@ -72,9 +72,8 @@ I'm a cybersecurity student who enjoys understanding how software works under th
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
-</p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaXVer7&theme=highcontrast&radius=10" alt="AryaXVer7's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaXVer7&bg_color=0d1117&color=58a6ff&line=67d8ff&point=ffffff&area=true&hide_border=true&radius=10" alt="AryaXVer7's Activity Graph" />
 </p>
 
 ---
