@@ -13,7 +13,7 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 - 🚀 Data Structures and Algorithms in C++
 - 🔍 Reverse Engineering
 - 🖥️ Systems Programming with C
-- ⚙️ Compiler and Transpiler Learning
+- ⚙️ Getting Started with x86-64 Assembly
 
 ---
 
@@ -30,12 +30,12 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 ## 🚀 Interests
 
+- Cybersecurity
 - Reverse Engineering
 - Systems Programming
 - Compiler Design
 - Computer Architecture
 - Low-Level Development
-- Cybersecurity
 
 ---
 
