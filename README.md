@@ -61,14 +61,6 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AryaXVer7&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AryaXVer7&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
