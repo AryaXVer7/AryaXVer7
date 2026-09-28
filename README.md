@@ -12,8 +12,6 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 - 🐍 Python Programming
 - 🚀 Data Structures and Algorithms in C++
 - 🔍 Reverse Engineering
-- 🖥️ Systems Programming with C
-- ⚙️ Getting Started with x86-64 Assembly
 
 ---
 
@@ -32,9 +30,6 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 - Cybersecurity
 - Reverse Engineering
-- Systems Programming
-- Compiler Design
-- Computer Architecture
 - Low-Level Development
 
 ---
@@ -58,26 +53,6 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryaXVer7&theme=github_dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaXVer7&bg_color=0d1117&color=58a6ff&line=67d8ff&point=ffffff&area=true&hide_border=true&radius=10" alt="AryaXVer7's Activity Graph" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
 ## Contact
 
 <p align="center">
@@ -93,15 +68,3 @@ I'm a cybersecurity student who enjoys understanding how software works under th
 </div>
 <!--
 **AryaXVer7/AryaXVer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
